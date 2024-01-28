@@ -29,6 +29,4 @@ Connect with Raj Kumar Dubey on
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/iamrajkumardubey/)
 Instagram: [Insta](https://www.instagram.com/menntunofficial/)
 
-
-
-Happy coding! 🚀
+<p align="center">Happy coding! 🚀 </p>
