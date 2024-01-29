@@ -27,8 +27,9 @@ Feel free to contribute by adding more solutions, improving existing explanation
 
 Connect with Raj Kumar Dubey on 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/iamrajkumardubey/)
-Instagram: [Insta](https://www.instagram.com/menntunofficial/)
+Instagram: [Instagram](https://www.instagram.com/menntunofficial/)
 
 
 
-Happy coding! 🚀
+
+<p align="center">##Happy coding! 🚀 </p>
